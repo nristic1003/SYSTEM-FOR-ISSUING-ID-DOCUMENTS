@@ -1,0 +1,9 @@
+javac.processorpath=\
+    ${javac.classpath}:\
+    ${libs.eclipselinkmodelgen.classpath}
+
+Menjaj sa
+
+javac.processorpath=\
+    ${javac.classpath}:\
+    ${libs.eclipselink.classpath}
